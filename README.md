@@ -1,4 +1,4 @@
-**Task 3: Book Management REST API**
+**Book Management REST API**
 
 This is a simple and clean RESTful API built using **Node.js** and **Express.js** to perform basic CRUD operations on a list of books (stored in memory, no database).
 
